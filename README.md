@@ -16,6 +16,13 @@ Why is profit decreasing despite high sales?
 - Orders with **40%+ discounts** averaged **-06.71 profit per order**, compared to **+66.90 profit per order** for orders with no discount.
 - Profitability improved from **10.2% in 2014** to **13.4% in 2016**, before declining slightly to **12.7% in 2017**.
 
+## Recommendations
+- Limit discounts above 40% to prevent margin erosion.
+- Review pricing and profitability of Furniture products.
+- Improve performance in the Central region through targeted pricing and sales strategies.
+- Increase focus on high-margin Technology products.
+- Monitor profit and margin KPIs alongside sales revenue.
+
 ## Dataset
 [Superstore Sales — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 9,994 orders · 21 columns · Jan 2014 – Dec 2017
