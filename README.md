@@ -23,6 +23,20 @@ Why is profit decreasing despite high sales?
 - Increase focus on high-margin Technology products.
 - Monitor profit and margin KPIs alongside sales revenue.
 
+## Conclusion
+The analysis indicates that profit is decreasing despite high sales primarily because aggressive discounting and low-margin product categories are eroding profitability. By controlling discounts, improving Furniture category performance, and focusing on profitable products and regions, the business can increase profit without necessarily increasing sales volume.
+
+## Dashboard Preview
+### Executive Summary
+![Executive Summary](dashboard-screenshots/page1_executive_summary.png)
+
+### Product Analysis
+![Product Analysis](dashboard-screenshots/page2_product_analysis.png)
+
+### Regional & Seasonal Analysis
+![Regional Analysis](dashboard-screenshots/page3_regional_seasonal.png)
+
+
 ## Dataset
 [Superstore Sales — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 9,994 orders · 21 columns · Jan 2014 – Dec 2017
